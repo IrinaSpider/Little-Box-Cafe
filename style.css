@@ -1,0 +1,107 @@
+@font-face {
+    font-family: ЛО;
+    src: url(12453.ttf);
+}
+body{
+	font-family: arial;
+}
+.center{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header{
+	height: 100px;
+}
+	.logo{
+		border-radius: 50%;
+		width: 100px;
+	}
+.banner{
+	height: 400px;
+}
+.history{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.menu{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image: url(.jpg);
+	background-size: 100% 100%;
+}
+.gallery{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: grey;
+}
+.footer{
+	height: 200px;
+	background-color: purple;
+}
+.flex{
+	display: flex;
+}
+.veg_block{
+	height: 400px;
+	width: 400px;
+	background-image: url(Veg.jpg);
+	background-size: 100% 100%;
+}
+.english_block{
+	height: 400px;
+	width: 600px;
+	background-image: url(english.jpg);
+	background-size: 100% 100%;
+}
+.eco_block{
+	height: 400px;
+	width: 400px;
+	background-image: url(ecobio.jpg);
+	background-size: 100% 100%;
+}
+.banner_h2{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+.history_img{
+	width:500px;
+	margin-right: 50px;
+	border-radius: 10px;
+}
+.menu_1{;
+	height: 500px;
+	width: 400px;
+	background-size: 100% 100%;
+
+
+	margin-top: auto;
+	border-radius: 5px;
+}
+.menu_h2{
+	font-size: 30px;
+	margin-left: auto;
+	margin-top: auto;
+	font-family: ЛО;
+	padding-top:auto;
+}
+.p_menu{
+	font-size: 10px;
+	margin-left: 5px;
+	font-family: ЛО;
+}
+.menu_2{
+	height: 300px;
+	width: 300px;
+	margin-right: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	text-align: center;
+}
+.img_01{
+	height:300px;
+	width:300px;
+}
